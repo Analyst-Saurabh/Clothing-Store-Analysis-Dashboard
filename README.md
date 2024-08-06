@@ -101,3 +101,10 @@ This project demonstrates the power of Excel in transforming raw sales data into
 
 - `Clothing Store Analysis.xlsx`: The Excel file containing the interactive sales analysis dashboard.
 - `README.md`: This readme file explaining the project steps and insights.
+
+## Contact
+For any queries or further information,
+ please contact:
+**Name:** Saurabh Sharma  
+**Email:** sharmasaurabh.office@gmail.com
+
